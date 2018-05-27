@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class App1 extends Component {
+class ManageStateAndUseReactComponentsAsChildren extends Component {
     constructor() {
         super();
         this.state = {
@@ -30,4 +30,4 @@ class App1 extends Component {
 // all of the widgets will update the value in the parent component now
 const Widget = (props) => <input type="text" onChange={props.update} />
 
-export default App1;
+export default ManageStateAndUseReactComponentsAsChildren;
