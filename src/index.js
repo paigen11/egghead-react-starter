@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './ReactRef';
+import App from './MappingArraysOfData';
 
 ReactDOM.render(
     <App />,
