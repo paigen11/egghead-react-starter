@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67c2a821-cd2b-4e47-8282-f52f997ad810" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ComponentUpdates.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifecycleMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MappingArraysOfData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MappingArraysOfData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MappingArraysOfData.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -47,8 +43,8 @@
       <file leaf-file-name="MappingArraysOfData.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MappingArraysOfData.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="358">
+              <caret line="30" selection-start-line="30" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -195,25 +191,25 @@
       <workItem from="1524142745342" duration="822000" />
       <workItem from="1525293641248" duration="598000" />
       <workItem from="1527033084297" duration="6299000" />
-      <workItem from="1528140915970" duration="3623000" />
+      <workItem from="1528140915970" duration="6167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11475000" />
+    <option name="totallyTimeSpent" value="14019000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="840" y="23" width="840" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24053724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24053724" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32889965" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32889965" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -339,8 +335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MappingArraysOfData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="358">
+          <caret line="30" selection-start-line="30" selection-end-line="31" />
         </state>
       </provider>
     </entry>
